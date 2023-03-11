@@ -1,0 +1,15 @@
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\bin\Debug\net6.0\lab3-4.exe
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\bin\Debug\net6.0\lab3-4.deps.json
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\bin\Debug\net6.0\lab3-4.runtimeconfig.json
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\bin\Debug\net6.0\lab3-4.dll
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\bin\Debug\net6.0\lab3-4.pdb
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.csproj.AssemblyReference.cache
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.AssemblyInfoInputs.cache
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.AssemblyInfo.cs
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.csproj.CoreCompileInputs.cache
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.dll
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\refint\lab3-4.dll
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.pdb
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\lab3-4.genruntimeconfig.cache
+D:\kyrs2\CSN\lab3-3\lab3-4\lab3-4\obj\Debug\net6.0\ref\lab3-4.dll
